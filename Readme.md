@@ -1,4 +1,4 @@
 # AWS-Cloud-Server
 
 
-![photo](./image.png)
+![photo](./lab16.jpg)
